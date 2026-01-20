@@ -1,12 +1,57 @@
-## Hi there 👋
+# 🌐 Welcome to z19r 🌐
 
-<!--
+```
+   __  __ _   _ ___  ___ ___    ___ ___  _  _ ___ _____ ___ _   _  ___ _____ ___ ___  _  _ 
+  |  \/  | \ | |   \| __| _ \  / __/ _ \| \| / __|_   _| _ \ | | |/ __|_   _|_ _/ _ \| \| |
+  | |\/| |  \| | |) | _||   / | (_| (_) | .` \__ \ | | |   / |_| | (__  | |  | | (_) | .` |
+  |_|  |_|_|\_|___/|___|_|_\  \___\___/|_|\_|___/ |_| |_|_\\___/ \___| |_| |___\___/|_|\_|
+```
 
-**Here are some ideas to get you started:**
+### ⚡ YOUR SOURCE FOR CUTTING-EDGE WEB TECHNOLOGY ⚡
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+> ★ ★ ★ NOW WITH 100% MORE FRAMES SUPPORT ★ ★ ★
+
+---
+
+## 📂 FREE SOFTWARE DOWNLOADS 📂
+
+*click below to download our FREEWARE and SHAREWARE offerings from [@zackkitzmiller](https://github.com/zackkitzmiller)*
+
+| 💾 file | 📝 description | ⭐ rating |
+|---------|----------------|-----------|
+| [tiny-php](https://github.com/zackkitzmiller/tiny-php) | reversible base62 ID obfuscation | ⭐⭐⭐⭐⭐ |
+| [holmes](https://github.com/zackkitzmiller/holmes) | mobile detection library | ⭐⭐⭐⭐ |
+| [nil](https://github.com/zackkitzmiller/nil) | null object pattern for php | ⭐⭐⭐⭐ |
+| [statsd-arduino](https://github.com/zackkitzmiller/statsd-arduino) | statsd client for arduino | ⭐⭐⭐⭐ |
+| [zackstrap](https://github.com/zackkitzmiller/zackstrap) | bootstrap those dotfiles (rust) | ⭐⭐⭐⭐⭐ |
+| [tree-weaver](https://github.com/zackkitzmiller/tree-weaver) | ascii tree → nested file paths (erlang) | ⭐⭐⭐⭐ |
+
+---
+
+## 🚧 COMING SOON 🚧
+
+**[markbin.net](https://markbin.net)** — paste markdown. get a link. it's that simple!
+
+**[flourish or forfeit](https://flourishorforfeit.com)** — stake real $$$ on your habits. skip a day? you lose it. 💸
+
+**knkylinks** — short links with weird names
+
+---
+
+```
+[ VISITORS: 000000147 ]
+```
+
+---
+
+`[ NETSCAPE NOW! ]` `[ BEST VIEWED AT 800x600 ]` `[ BUILT WITH NOTEPAD ]`
+
+---
+
+### 📧 webmaster@z19r.com 📧
+
+*made with ❤️ in chicago*
+
+*© 1998-2026 z19r. all rights reserved.*
