@@ -9,13 +9,13 @@
 **SOFTWARE CONSULTANCY — CHICAGO, ILLINOIS**<br>
 Rails for the money. Go and Rust for the terminal. Postgres for everything.
 
-[z19r.com](https://z19r.com) · [webmaster@z19r.com](mailto:webmaster@z19r.com)
+[z19r.com](https://z19r.com) · [zack@z19r.com](mailto:zack@z19r.com)
 
 ---
 
 ### <samp>01 — WHAT THIS IS</samp>
 
-z19r is a one-person shop run by [@zackkitzmiller](https://github.com/zackkitzmiller). The paid work is Rails applications, AWS infrastructure, and the kind of Postgres and Sidekiq problems that show up at 2am with a Sentry link attached.
+z19r is a shop run by [@zackkitzmiller](https://github.com/zackkitzmiller). The paid work is Rails applications, AWS infrastructure, and the kind of Postgres and Sidekiq problems that show up at 2am with a Sentry link attached.
 
 This org is the other half — tools that got built because the alternative was tolerating something annoying. Most are a single binary. Most are MIT. All of them started as a bad afternoon.
 
